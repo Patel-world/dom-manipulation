@@ -1,0 +1,13 @@
+img.card-img-top {
+    object-fit: contain;
+    height: 240px;
+}
+.card {
+    margin-block-end: 1.5rem;
+}
+
+.container-lg{
+    display:grid;
+    grid-template-columns: auto auto auto;
+    
+}
